@@ -6,6 +6,8 @@ El desafío es desarrollar esta página de inicio y lograr que se parezca lo má
 - CSS
 - JS Vanilla
 
+![desktop-preview](https://user-images.githubusercontent.com/112582420/198168978-3e9fd7ef-4845-43a0-8d7a-737575fdb6be.jpg)
+
 # Guía de Estilo
 
 ## Diseño
